@@ -42,7 +42,7 @@ function Project2() {
                     <h1 className="text-gray-400 mt-2 md:mt-0">Technologies :<spna className="text-white md:ml-5 md:text-lg font-serif">HTML,CSS</spna></h1>
                     <h1 className="text-gray-400 mt-2 md:mt-0">Industry :<spna className="text-white md:ml-5 md:text-lg font-serif">WEB DEVELOPMENT</spna></h1>
                     <h1 className="text-gray-400 mt-2 md:mt-0">DATE :<spna className="text-white md:ml-5 md:text-lg font-serif"> Feb-06-2022 </spna></h1>
-                    <h1 className="text-gray-400 mt-2 md:mt-0">URL :<a className="text-blue-500 text-sm md:text-lg md:ml-5" href="https://mrfaiz123.github.io/HTML-CSS-template/"> </a></h1>
+                    <h1 className="text-gray-400 mt-2 md:mt-0">URL :<a className="text-blue-500 text-sm md:text-lg md:ml-5" href="https://mrfaiz123.github.io/HTML-CSS-template/">https://mrfaiz123.github.io/HTML-CSS-template/ </a></h1>
                     <h1 className="text-gray-400 mt-2 md:mt-0">MY github :<a className="text-blue-500 md:text-lg md:ml-5" href="https://github.com/Mrfaiz123/"> https://github.com/Mrfaiz123/</a></h1>
                 </div>
             </div>

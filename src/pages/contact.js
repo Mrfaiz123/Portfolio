@@ -91,7 +91,7 @@ function Contact() {
                                 <h1 className="text-gray-400 text-4xl">CV</h1>
                             </div>
                             <div className="flex flex-col justify-center p-2 w-full">
-                                <button className="spain11 text-sm md:text-md text-white font-serif p-2 w-[80%] rounded-3xl"><a href="https://jobee.pk/resume/default">DOWNLOAD NOW</a></button>
+                                <button className="spain11 text-sm md:text-md text-white font-serif p-2 w-[80%] rounded-3xl"><a href="https://drive.google.com/file/d/1i9rLFSyAa2y8YbXFouCxJGKwyVC8MNLG/view?usp=sharing" target="_blank">DOWNLOAD NOW</a></button>
                             </div>
                         </div>
                     </div>
