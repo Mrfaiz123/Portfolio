@@ -28,7 +28,7 @@ const Nav = () => {
     <div className='shadow-md shadow-gray-400 w-full z-10 sticky top-0 left-0'>
       <div className='md:flex items-center justify-around bg-black py-4 md:px-10 px-7'>
         <div onClick={Home} className={`text-4xl font-bold cursor-pointer flex items-center font-[Poppins] text-white `}>
-          FaizX
+          Faiz<span className="text-red-500 text-3xl">X</span>
         </div>
       
       <div onClick={()=>setOpen(!open)} className=' text-white  text-3xl absolute right-8 top-6 cursor-pointer md:hidden'>

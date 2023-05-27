@@ -88,7 +88,7 @@ function Contact() {
                         <div data-aos="zoom-in" className="h-[100%] w-[95%] flex items-center">
                             <div className="spain1 flex justify-center items-center w-[40%] h-[10vh] rounded-3xl">
 
-                                <h1 className="text-gray-400 text-4xl">CV</h1>
+                                <h1 className="text-white text-4xl">CV</h1>
                             </div>
                             <div className="flex flex-col justify-center p-2 w-full">
                                 <button className="spain11 text-sm md:text-md text-white font-serif p-2 w-[80%] rounded-3xl"><a href="https://drive.google.com/file/d/1i9rLFSyAa2y8YbXFouCxJGKwyVC8MNLG/view?usp=sharing" target="_blank">DOWNLOAD NOW</a></button>

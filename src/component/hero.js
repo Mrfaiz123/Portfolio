@@ -46,9 +46,9 @@ function Hero() {
                       <img src={img1} className=" h-[100%] w-[100%] rounded-br-[8vw]  rounded-tl-[8vw]  " />
                     </div>
                     <div className="flex flex-col md:w-[42%] h-[80%] w-[100%]">
-                        <h1 className="w-full text-[14px] text-gray-400 sm:w-full pt-2">A WEB DESIGNER</h1>
-                        <h1 className="font-bold text-2xl pt-2">Mr <br/> FaizX.</h1>    
-                        <h1 className="w-full text-[14px] pt-2 text-gray-400 sm:w-full ">I am a Web Designer based in san francisco.</h1>
+                        <h1 className="w-full text-[14px] text-gray-400 sm:w-full pt-2">A WEB DEVELOPER</h1>
+                        <h1 className="font-bold text-2xl pt-2">Mr <br/> Faiz<span className="text-red-500 text-3xl">X.</span></h1>    
+                        <h1 className="w-full text-[14px] pt-2 text-gray-400 sm:w-full ">I am a Web Developer based in Lahore.</h1>
                         <div className='icon flex justify-end'>
                           <BiLogOutCircle className='img text-4xl duration-200 text-gray-400'/>
                         </div>
